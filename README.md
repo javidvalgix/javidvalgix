@@ -1,3 +1,6 @@
+<!-- BY JAVID. -->
+<!-- NOT CONFIDENT ENOUGH TO DO IT YOURSELF? -->
+<!-- HM?? -->
 <div align="center">
 <font style="font-size: 78px" align="left">Hi, im Javid. <img width="24px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR2Y2hzdzdvcDM3NWR1YzBuYXkwOHJyZmxuZmFsZnV2Z3RrdXoxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rS6hNEBJYqy3Tfo9yS/giphy.webp" alt="Snake animation" /></font>
 
@@ -19,7 +22,7 @@ Keep it simple, but I don’t give a damn.
 
 ###
 
-<img width="20%" height="4" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif"><br>
+<img width="17%" height="4" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif"><br>
 
 <img width="5" height="35" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
 
