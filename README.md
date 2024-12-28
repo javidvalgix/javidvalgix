@@ -43,14 +43,14 @@ Keep it simple, but I don’t give a damn.
 </div><br>
 
 <div align="left">
-  <img width="320" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>Am I working on something?</b><br>
-    <img width="330" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+  <img width="280" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>Am I working on something?</b><br>
+    <img width="290" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
       <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
       <i>Sure, check 👇</i><br>
-    <img width="330" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+    <img width="290" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
       <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
       <a target="_blank" href="https://github.com/valgixcenter"><img width="16" src="https://avatars.githubusercontent.com/u/187959263?s=64&v=4"> Valgix</a><br>
-    <img width="330" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+    <img width="290" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
       <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
       <a target="_blank" href="https://easy-decision.com"><img width="16" src="https://easy-decision.com/icon.png"> Easy-Decision</a>
 </div>
@@ -58,6 +58,6 @@ Keep it simple, but I don’t give a damn.
 <br>
 
 <div align="right">
-  <img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>Got a favorite language?</b><img width="320" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><br>
-  <img width="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> TypeScript<img width="320" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+  <img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>Got a favorite language?</b><img width="280" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><br>
+  <img width="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> TypeScript<img width="290" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
 </div>
