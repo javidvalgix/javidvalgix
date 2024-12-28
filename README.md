@@ -95,6 +95,6 @@ Keep it simple, but I don’t give a damn.
 
 <div align="right">
   <img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>What's your biggest hate?</b><img width="240" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><br>
-  <img width="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> Ai. Cuz i'm using this shi.
+  <img width="14" src="https://img.nex.az/ib/RF1kNTLrBkRVx1h_1735424611.png"> Ai. Cuz i'm using this shi.
     <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif"><img width="250" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
 </div>
