@@ -65,3 +65,28 @@ Keep it simple, but I don’t give a damn.
   <img width="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> TypeScript
     <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif"><img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
 </div>
+
+<br>
+
+<div align="left">
+  <img width="260" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png"><img width="14" src="https://i.pinimg.com/originals/05/bb/97/05bb976075357338b67686cc6292bc33.gif"><b>Any network skills?</b>
+    <br>
+    <img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+      <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
+      <i>Omg, dude... Of course, f*cking course.</i><br>
+    <img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+      <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
+      <img width="16" src="https://cdn0.iconfinder.com/data/icons/3d-dynamic-gradient/512/sheild-dynamic-gradient.png"> Iptables/UFW/CSF
+    <br>
+    <img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+      <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
+      <img width="16" src="https://static.vecteezy.com/system/resources/previews/013/394/753/non_2x/3d-safe-internet-cyber-security-icon-illustration-rendering-png.png"> XDP-based protection
+    <br>
+    <img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+      <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
+      <img width="16" src="https://static.vecteezy.com/system/resources/thumbnails/018/064/615/small/3d-check-marks-tick-marks-symbols-icon-isolated-concept-3d-render-illustration-png.png"> Custom JS UAM/Cookie validation
+    <br>
+    <img width="270" height="0" src="https://img.nex.az/ib/gRF6pPToM6MrNj8_1735419705.png">
+      <img width="5" height="15" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
+      <img width="16" src="https://cdn3d.iconscout.com/3d/premium/thumb/processor-3d-icon-download-in-png-blend-fbx-gltf-file-formats--chip-cpu-microchip-computer-science-pack-technology-icons-5602753.png?f=webp"> Kernel-based configuration
+</div>
