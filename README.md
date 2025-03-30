@@ -31,7 +31,7 @@ Keep it simple, but I don’t give a damn.
 
 <img width="36" src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png">
 <img width="36" src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp">
-<img width="36" src="https://download.services.iconscout.com/download?name=php&download=0&url=https%3A%2F%2Fdl52s1f61ry7i.cloudfront.net%2F3d%2Ffree%2Foriginal%2F7578026.png%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkbDUyczFmNjFyeTdpLmNsb3VkZnJvbnQubmV0IiwiZXhwIjoxNzM1Njc3MzUzLCJxIjpudWxsLCJpYXQiOjE3MzU0MTgxNTN9.85d19c157719ad5c533903e55dcd4b371af26639f9d83ccbaba0b0dd6001c0fa&width=500&height=500">
+<img width="36" src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-3d-icon-download-in-png-blend-fbx-gltf-file-formats--wordpress-logo-html-scripting-language-coding-lang-pack-logos-icons-7578026.png">
 
 <img width="5" height="35" src="https://i.gifer.com/origin/03/03270abe66b1c66ef8832c57aa6da0c1_w200.gif">
 
