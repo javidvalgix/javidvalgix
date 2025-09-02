@@ -10,7 +10,7 @@
 
 <div align="center">
   You can type me on<br>
- 👉 <a href="https://javidvalgix.t.me" target="_blank">
+ 👉 <a href="https://as_a_programmer.t.me" target="_blank">
     <img width="78" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
   </a> 👈
 </div>
